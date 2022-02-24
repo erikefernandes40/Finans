@@ -1,0 +1,19 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#home{
+    background-color: #ffc107;
+    color: white;
+}
+
+.caixa{
+    padding: 60px 0;
+    border: 1px solid #e5e5e5;
+}
+
+footer p a{
+    margin: 0 15px;
+}
